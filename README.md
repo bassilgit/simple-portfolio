@@ -1,7 +1,5 @@
 Simple Portfolio Website
-
 This is a basic personal portfolio website built using HTML and CSS. It includes a homepage and a contact page to showcase personal information and allow visitors to get in touch.
-
  Features
  Home Page (index.html)
 Displays basic introduction and personal details.
@@ -17,6 +15,4 @@ portfolio/
 │── index.html
 │── contact.html
 │── style.css
-
-
 Baasil Ahamed
